@@ -1,0 +1,3 @@
+A:Paulo M;Rua p;20/2/2002;202020;abc;900;0;
+O:Ana P;Rua da direita n 2;20/9/1987;25023;Pintura;1100;20;sim;
+O:Jonny D;Rua da direita n 2;20/9/1987;25023;Pintura;1100;20;sim;

@@ -1,0 +1,5 @@
+O:Jonas Culatra;20/9/1987;Rua da direita n 2;25023;Pintura;1100;20;sim;
+A:Joni Rato;4/2/1990;Rua da esquerda n 3;25024;Comercial;900;0;
+O:Luis Carlos;1/12/1985;Rua Central n22;10000;Ferragem;1100;0;nao;
+O:Joana Maira;5/5/2000;Rua das Mairas;10002;Secretaria;800;0;nao;
+A:Ana Silva;2/3/2001;Rua das Silveiras n15 3;10003;Transporte;700;0;

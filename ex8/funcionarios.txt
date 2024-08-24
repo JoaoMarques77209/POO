@@ -1,0 +1,10 @@
+A:Maria Nunes;22/2/1992;Praceta Oito;25669;Cozinha;1000;0;
+O:Pedro Alves;28/2/1998;Caseiro;25668;Caseiro;1125;4;nao;
+A:Merlene Sin;13/3/2000;Praceta dois;25066;Industria;1005;0;
+O:Diogo Peras;22/5/2005;Praceta Um;25065;Caseiro;1000;6;sim;
+A:Adrusila Lopes;6/6/1996;Rua E n6;25051;RecHumanos;900;15;
+O:Zeca Estacionancio;1/1/1985;Rua A n9;25050;Pintura;1100;15;nao;
+O:Anas Silva;14/1/1965;Rua A n1;25060;Pinturas;1100;15;nao;
+A:Joao Neves;20/9/1999;Rua B n2;25061;RecHuman;1000;0;
+O:Zeca Solos;11/7/1990;Rua C n3;25062;Oficinas;1300;15;sim;
+A:Joana Sela;26/6/2000;Rua D n4;25063;RecHuman;1000;0;
